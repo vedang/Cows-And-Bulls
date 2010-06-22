@@ -1,0 +1,33 @@
+CREATE TABLE DISCARDED ( LETTER CHAR UNIQUE );
+CREATE TABLE LETTER_FREQ ( POS1 CHAR UNIQUE, POS2 CHAR UNIQUE, POS3 CHAR UNIQUE, POS4 CHAR UNIQUE );
+CREATE TABLE WORD_DB ( WORD CHAR(4) PRIMARY KEY, FREQUENCY INTEGER NOT NULL );
+
+
+insert into letter_freq values ( 24,22,24,14 );
+insert into letter_freq values ( 22,7,8,6 );
+insert into letter_freq values ( 21,14,16,7 );
+insert into letter_freq values ( 20,15,17,23 );
+insert into letter_freq values ( 12,24,26,26 );
+insert into letter_freq values ( 18,12,13,19 );
+insert into letter_freq values ( 11,10,11,16 );
+insert into letter_freq values ( 15,26,3,15 );
+insert into letter_freq values ( 14,23,21,8 );
+insert into letter_freq values ( 7,3,4,5 );
+insert into letter_freq values ( 6,5,6,13 );
+insert into letter_freq values ( 10,16,18,18 );
+insert into letter_freq values ( 17,13,14,12 );
+insert into letter_freq values ( 9,20,22,22 );
+insert into letter_freq values ( 25,25,19,17 );
+insert into letter_freq values ( 5,11,12,11 );
+insert into letter_freq values ( 2,2,2,2 );
+insert into letter_freq values ( 16,19,23,21 );
+insert into letter_freq values ( 19,17,25,25 );
+insert into letter_freq values ( 26,18,20,24 );
+insert into letter_freq values ( 8,21,15,10 );
+insert into letter_freq values ( 4,6,7,4 );
+insert into letter_freq values ( 23,9,10,9 );
+insert into letter_freq values ( 3,4,5,3 );
+insert into letter_freq values ( 13,8,9,20 );
+insert into letter_freq values ( 1,1,1,1 );
+
+

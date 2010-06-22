@@ -1,0 +1,40 @@
+Letter Frequency in the English Language
+e t a o i n s r h l d c u m f p g w y b v k x j q z
+
+
+Letter Frequency in Word Averages
+e t a o i n s r h l d c u m f p g w y b v k x j q z
+
+Letter Frequency of the most common first letters in a word
+t o a w b c d s f m r h i y e g l n p u j k x z q v
+
+Letter Frequency of the most common second letter in a word
+h o e i a u n r t s l d c f m p g w y b v k x j q z
+
+Letter Frequency of the most common third letter in a word
+e s a r n i t o h l d c u m f p g w y b v k x j q z 
+
+Letter Frequency of the most common last letter in a word
+e s t d n r y f l o g h a k m p u w i c b v x j q z
+
+Letter Frequency of the letters most likely to follow the e
+r s n d
+
+More than half of all words end with
+e t d s
+
+
+
+
+
+
+
+he letter frequency for each letter based on word length:
+
+AEOLRITNSUDMPHCBKGFWYVJZXQ, / 4 /
+EAROLSTINCUYHDPMBGKFWVZXJQ, / 5 /
+EARNITLOSCUDMHPYBGFKWVXZJQ, / 6 /
+EARINTOLSCUMDPHGBYFWKVXZJQ, / 7 /
+EAIRONTLSCDUMHPBGYFKWVXQJZ, / 8 /
+EAITRONSLCUDMPHGBYFWVKXQJZ, / 9 /
+EIAOTRNSLCUPMHDGBYVFWKXQJZ, / 10 /
