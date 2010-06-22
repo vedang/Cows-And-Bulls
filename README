@@ -1,3 +1,3 @@
 "Cows And Bulls" was a third year project that I did as a class assignment using VB and SQL over a weekend. It implemented the famous cows and bulls game with a twist: instead of you tryin to guess a word that the computer chose at random, the computer would try to guess a word that you had chosen. My project partners (Jitesh, Chirayu) and I had been quite proud of what we had done, and the game had been quite a hit in the college.
 
-The original game has been checked in under the branch "legacy" in case any one wants to take a look. I plan to re-implement the game in python and sqlite as a python learning exercise.
+The original game has been checked in under the branch "legacy" in case any one wants to take a look. I plan to re-implement the game in python and sqlite as a python learning exercise (branch "development").
